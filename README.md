@@ -1,6 +1,6 @@
-# Computer-Networking-Report-Third-Year
+# Computer-Networking-Investigation-Third-Year
 
-Third Year White paper report for a network penetration test.
+Report for a network security investigation. Completed for the university module Computer Networking 2.
 
 Grade: B+
 
